@@ -27,3 +27,17 @@ print("Hello", "World", sep=", ", end="!\n")
 
 name = input("Enter your name: ")
 print("Hello,", name)
+
+
+# 💡 Converting Input Types:
+
+# You can convert the input to a different data type using the int() and float() functions.
+#✅ Example:
+
+age = int(input("Enter your age: "))
+print("You are", age, "years old.")
+
+price = float(input("Enter the price: "))
+print("The price is $", price)
+
+
