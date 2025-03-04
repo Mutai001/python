@@ -30,6 +30,16 @@
         # x //= 3 (Assigns the integer part of x divided by 3 to x)
         
 # Comparison Operators
+    # Useed to compare two values
+    # Example: ==, !=, >, <, >=, <=
+    
+      # x == y (Returns True if x is equal to y)
+        # x != y (Returns True if x is not equal to y)
+        # x > y (Returns True if x is greater than y)
+        # x < y (Returns True if x is less than y)
+        # x >= y (Returns True if x is greater than or equal to y)
+        # x <= y (Returns True if x is less than or equal to y)
+        
 # Logical Operators
 # Identity Operators
 # Membership Operators
