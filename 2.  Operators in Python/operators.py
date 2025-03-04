@@ -61,4 +61,14 @@
     
       # x in y (Returns True if x is present in y)
         # x not in y (Returns True if x is not present in y)
+        
 # Bitwise Operators
+    # Used to perform bitwise operations
+    # Example: &, |, ^, ~, <<, >>
+    
+      # x & y (Bitwise AND)
+        # x | y (Bitwise OR)
+        # x ^ y (Bitwise XOR)
+        # ~x (Bitwise NOT)
+        # x << y (Bitwise left shift)
+        # x >> y (Bitwise right shift)
