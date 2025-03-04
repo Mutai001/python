@@ -13,6 +13,7 @@
 
 
 # ✅ Example Usage:
+
 # Integer
 age = 25  
 # Float
