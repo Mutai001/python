@@ -52,7 +52,11 @@ point = (4, 5)
 print(point)
 print(type(point))
 
-# 
+# d. Dictionaries - Dictionaries are used to store key-value pairs.
+    #Example: Dictionary of person's name and age
+person = {"name": "Alice", "age": 25}
+print(person) 
+print(type(person))
 
 
 
