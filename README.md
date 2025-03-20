@@ -13,22 +13,35 @@ This repository serves as a structured log of my Python learning experience. I w
 Here’s a breakdown of my Python learning journey:
 
 ### ✅ **Phase 1: Python Basics**
-- [ ] Understanding Python syntax and variables
-- [ ] Control structures (if-else, loops)
-- [ ] Functions and modules
-- [ ] Data structures (lists, tuples, dictionaries, sets)
+- [ ] ✅ Understanding Python syntax and variables
+- [ ] ✅ Control structures (if-else, loops)
+- [ ] ✅ Functions and modules
+- [ ] ✅ Data structures (lists, tuples, dictionaries, sets)
+- [ ] **Projects**
+- [ ] ✅  Number Guessing Game 🎲
+- [ ] ✅  Simple To-Do List App 📝
+  
 
 ### 🚀 **Phase 2: Intermediate Python**
-- [ ] Object-Oriented Programming (OOP)
-- [ ] File handling and data manipulation
-- [ ] Exception handling and debugging
-- [ ] Working with APIs and web scraping
+- [ ] ✅ Object-Oriented Programming (OOP)
+- [ ] ✅ File handling and data manipulation
+- [ ] ✅ Exception handling and debugging
+- [ ] ✅ Working with APIs and web scraping
+- [ ] **Projects**
+- [ ] ✅ Rock, Paper, Scissors Game ✊📄✂️
+- [ ] ✅ Password Generator 🔐
+- [ ] ✅ Weather App (Using an API) ☁️🌡️
 
 ### 💡 **Phase 3: Advanced Python & Projects**
-- [ ] Data analysis with Pandas and NumPy
-- [ ] Web development with Flask/Django
-- [ ] Automation scripts
-- [ ] Machine learning basics with Scikit-learn
+- [ ] ✅ Data analysis with Pandas and NumPy
+- [ ] ✅ Web development with Flask/Django
+- [ ] ✅ Automation scripts
+- [ ] ✅ Machine learning basics with Scikit-learn
+- [ ] **Projects**
+- [ ] ✅ Chatbot using AI (ChatGPT API)
+- [ ] ✅ Automated Email Sender (Using SMTP & Python)
+- [ ] ✅ Web Scraper (Using BeautifulSoup & Selenium)
+- [ ] ✅ Django or Flask Web App
 
 ## 🎯 Goals
 - Maintain consistency in learning and coding daily.
